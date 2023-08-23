@@ -1,0 +1,8 @@
+hijri-converter
+pandas              
+pytz                
+sympy               
+streamlit-option-menu
+streamlit
+datetime
+openpyxl 
