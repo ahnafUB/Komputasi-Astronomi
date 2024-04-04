@@ -1,5 +1,5 @@
 # Komputasi-Astronomi
 Website Perhitungan Waktu Sholat
-https://utkawsholat.streamlit.app/
+https://utkawsholatub.streamlit.app/
 
 Materi Komputasi Astronomi UB 2022
